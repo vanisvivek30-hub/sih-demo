@@ -5,12 +5,12 @@
 export const teamData = [
   {
     id: 1,
-    name: "Vivek Sharma",
-    role: "Project Lead & Full Stack Developer",
+    name: "Vivek Vanis",
+    role: "Project Lead & Frontend Developer",
     isLead: true,
     contribution:
-      "System architecture, full stack development, prototype integration and project coordination.",
-    skills: ["React", "Node.js", "System Design", "API Development"],
+      " Frontend development, prototype integration and project coordination.",
+    skills: ["React",  "API Development"],
     photo: null, // Replace with: "/images/team/vivek.jpg"
     linkedin: "#",
     github: "#",
