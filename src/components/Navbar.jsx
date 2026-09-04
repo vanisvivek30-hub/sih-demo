@@ -127,13 +127,14 @@ const Navbar = () => {
                   className="flex items-center gap-2 px-4 py-2 rounded-xl glass text-slate-300 text-sm font-medium">
                   <GitBranch size={16} /> GitHub
                 </a>
-                <button
-                  onClick={() => handleNav('#demo')}
-                  className="flex-1 py-2 rounded-xl text-sm font-semibold text-white font-space text-center"
-                  style={{ background: 'linear-gradient(135deg,#6366f1,#06b6d4)' }}
+                 <button
+                  // onClick={() => handleNav('#demo')}
+                  // className="flex-1 py-2 rounded-xl text-sm font-semibold text-white font-space text-center"
+                  // style={{ background: 'linear-gradient(135deg,#6366f1,#06b6d4)' }}
                 >
-                  Watch Demo
-                </button>
+                  {/* Watch Demo */}
+                </button> 
+            
               </div>
             </div>
           </motion.div>
